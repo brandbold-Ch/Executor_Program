@@ -1,0 +1,10 @@
+{
+    "paths": {
+        "program": "C:/Users/Brandbold/Downloads/SIARCEP/SIARCEP/SISTEMA/controlep.exe",
+        "period_a": "C:/Users/Brandbold/Downloads/SIARCEP/SIARCEP/P0217M/SEMA<>/",
+        "period_b": "C:/Users/Brandbold/Downloads/SIARCEP/SIARCEP/P0217M/SEMB<>/",
+        "root_folder": "C:/Users/Brandbold/Downloads/SIARCEP/SIARCEP/"
+    },
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY2hvb2wiOiJDT0JBQ0ggUGxhbnRlbCAyMTciLCJ0eXBlIjoiUHJlcGFyYXRvcmlhIn0.wINe8sP5B4bhbXC9ciAPXewvyK4b4bESgnXafJIWVGQ",
+    "period": "A"
+}

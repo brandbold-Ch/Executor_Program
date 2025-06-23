@@ -1,11 +1,12 @@
 {
     "paths": {
         "program": "C:/SIARCEP/SISTEMA/controlep.exe",
-        "period_a": "C:/SIARCEP/P0217M/SEMA<>/",
-        "period_b": "C:/SIARCEP/P0217M/SEMB<>/",
+        "period_a": "C:/SIARCEP/P0217M/SEMA%/",
+        "period_b": "C:/SIARCEP/P0217M/SEMB%/",
         "root_folder": "C:/SIARCEP"
     },
-    "access_token": "674ba3c8be896e035b19a92ba85f89d030170a68063f5722b99941973a55f436",
-    "url": "http://82.180.132.46/api/",
-    "period": "A"
+    "access_token": "",
+    "url": "",
+    "period": "SEMB2025",
+    "campus": "EMSAD_217_SOCONUSCO"
 }
